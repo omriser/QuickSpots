@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+
+    <android.support.v7.widget.CardView
+        android:layout_width="0dp"
+        android:layout_height="260dp"
+
+
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:layout_marginTop="8dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/md_indigo_200">
+
+            <TextView
+                android:id="@+id/best_around_name"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="8dp"
+                android:layout_marginEnd="8dp"
+                android:layout_marginStart="8dp"
+                android:layout_marginTop="16dp"
+                android:textSize="28dp" />
+
+            <TextView
+                android:id="@+id/best_around_type"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignTop="@id/best_around_name"
+                android:layout_marginBottom="8dp"
+                android:layout_marginLeft="46dp"
+                android:layout_marginStart="46dp"
+                android:layout_marginTop="0dp"
+                android:layout_toEndOf="@id/best_around_name"
+                android:layout_toRightOf="@id/best_around_name"
+                android:gravity="center_horizontal|fill_horizontal"
+                android:textSize="28dp" />
+
+            <TextView
+                android:id="@+id/best_around_address"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/best_around_name"
+                android:layout_alignStart="@+id/best_around_name"
+                android:layout_below="@+id/best_around_type"
+                android:textSize="28dp" />
+
+            <RatingBar
+                android:id="@+id/best_around_rating"
+                style="@android:style/Widget.RatingBar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignLeft="@+id/best_around_name"
+                android:layout_alignStart="@+id/best_around_name"
+                android:layout_below="@id/best_around_address"
+                android:layout_marginTop="8dp"
+                android:foregroundGravity="center_horizontal|fill_horizontal" />
+
+        </RelativeLayout>
+    </android.support.v7.widget.CardView>
+</android.support.constraint.ConstraintLayout>

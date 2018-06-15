@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">QuickSpots</string>
+    <string name="title_activity_favorit">FavoritActivity</string>
+    <string name="search_hint">Search</string>
+
+    <string name="facebook_app_id">725090347698488</string>
+    <string name="fb_login_protocol_scheme">fb725090347698488</string>
+
+    <!--MainTablayOutStrings-->
+
+    <string name="History_Tab">History</string>
+    <string name="Around_Me_Tab">Around Me</string>
+
+    <!--SearchTablayOutStrings-->
+    <string name="search_history_tab">Search History</string>
+    <string name="result_tab">Results</string>
+
+    <!--MainTablayOutStrings-->
+    <string name="search_hint_around_me">Search Something</string>
+    <string name="serarc_hint_all_over">Search... e.g Cafe new york</string>
+
+    <string name="no_phone_num">No Phone Number Found</string>
+    <string name="in_favorite">Is Already In Favorites</string>
+    <string name="more_results">More Results?</string>
+    <string name="load_more">Load More</string>
+
+    <string name="delete_all">Delete All</string>
+    <string name="delete">Delete</string>
+    <string name="from_fav">From Favorite</string>
+    <string name="cancel">Cancel</string>
+    <string name="select_the_action">Select The Action</string>
+    <string name="currant_titel">Current</string>
+    <string name="distance">Distance</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+    <string name="home">HOME</string>
+    <string name="favorite_all_caps">FAVORITE</string>
+    <string name="facebook_login">FACEBOOK LOGIN</string>
+    <string name="hebrew">HEBREW</string>
+    <string name="english">ENGLISH</string>
+    <string name="km">KILOMETERS</string>
+    <string name="miles">MILES</string>
+    <string name="language_setting">LANGUAGE SETTINGS</string>
+    <string name="km_or_miles">UNIT OF MEASUREMENT SETTINGS</string>
+    <string name="open_now">Open Now</string>
+    <string name="close_now">Close Now</string>
+    <string name="Delete_only">Delete Only</string>
+    <string name="from_history">From History</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="connaction_dialog_msg">You need to have Mobile Data or wifi to access this. Press ok to Exit</string>
+    <string name="try_again">Try Again</string>
+    <string name="call_btn">Call</string>
+    <string name="waze_btn">Waze</string>
+    <string name="around_my_location">Around My Location</string>
+    <string name="delete_only">Delete only</string>
+    <string name="no_fav_dialog_title">No Favorite Found!</string>
+    <string name="no_fav_dialog_text">no favorite places found. try and add some..</string>
+    <string name="no_fav_dialog_positive">OK</string>
+    <string name="search">SEARCHES</string>
+    <string name="facebooktitel">FACEBOOK LOGIN</string>
+    <string name="add_to_fave">Add To Favorite</string>
+    <string name="added_to_fav">Added To Favorite</string>
+    <string name="opening_hours">Opening Hours :</string>
+</resources>

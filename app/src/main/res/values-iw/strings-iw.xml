@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--MainTablayOutStrings-->
+
+    <string name="History_Tab">היסטוריה</string>
+    <string name="Around_Me_Tab">מסביבי</string>
+
+    <!--SearchTablayOutStrings-->
+    <string name="search_history_tab">חיפושים אחרונים</string>
+    <string name="result_tab">תוצאות חיפוש</string>
+
+    <!--MainTablayOutStrings-->
+    <string name="search_hint_around_me"> חפש משהו</string>
+    <string name="serarc_hint_all_over">חפש משהו,לדוגמא פיצה חיפה</string>
+
+    <string name="no_phone_num">אין מספר טלפון</string>
+    <string name="in_favorite">כבר נמצא במועדפים</string>
+    <string name="more_results">עוד תוצאות?</string>
+    <string name="load_more">טען עוד</string>
+
+    <string name="delete_all">מחק הכול</string>
+    <string name="delete">מחק</string>
+    <string name="from_fav">ממועדפים</string>
+    <string name="cancel">ביטול</string>
+    <string name="select_the_action">בחר את הפעולה</string>
+    <string name="currant_titel">מיקום נוכחי</string>
+    <string name="distance">מרחק</string>
+    <string name="favorite">מועדפים</string>
+    <string name="share">שיתוף</string>
+    <string name="home">מסך ראשי</string>
+    <string name="favorite_all_caps">מועדפים</string>
+    <string name="facebook_login">התחברות עם פייסבוק</string>
+    <string name="hebrew">עברית</string>
+    <string name="english">אנגלית</string>
+    <string name="km">קילומטרים</string>
+    <string name="miles">מיילים</string>
+    <string name="language_setting">הגדרות שפה</string>
+    <string name="km_or_miles">יחידות מידה</string>
+    <string name="open_now">פתוח עכשיו</string>
+    <string name="close_now">סגור עכשיו</string>
+    <string name="Delete_only">מחק רק את</string>
+    <string name="from_history">מהיסטוריה</string>
+    <string name="no_internet">אין חיבור אינטרנט</string>
+    <string name="connaction_dialog_msg">צריך חיבור אינטרנט (סלולרי או אלחוטי) על מנת להמשיך</string>
+    <string name="try_again">נסו שוב</string>
+    <string name="call_btn">התקשר</string>
+    <string name="waze_btn">נווט</string>
+    <string name="around_my_location">סביב המיקום הנוכחי</string>
+    <string name="delete_only">מחק את</string>
+    <string name="no_fav_dialog_title">לא נמצאו מועדפים</string>
+    <string name="no_fav_dialog_text">לא נמצאו מקומות מועדפים,נסו להוסיף כמה</string>
+    <string name="no_fav_dialog_positive">OK</string>
+    <string name="search">חיפושים</string>
+    <string name="facebooktitel">כניסה עם פייסבוק</string>
+    <string name="add_to_fave">הוספה למועדפים</string>
+    <string name="added_to_fav">נוסף למועדפים</string>
+    <string name="opening_hours">שעות פתיחה :</string>
+</resources>
